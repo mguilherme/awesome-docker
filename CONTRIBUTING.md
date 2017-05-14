@@ -58,7 +58,8 @@ To be on the list, it would be *nice* if entries adhere to these quality standar
 - Clearly "what is it" i.e. which category it belongs. Just try your best, we'll help you if needed.
 - Clearly stating "what is it for" i.e. mention the problem it solves. Just try your best, make it clear for the next person.
 - Solves a real problem (even a small one).
-- if it is a **WIP** (work in progress, not safe for production), mention it. (Remember the time before Docker 1.0 ? ;-) )
+- If it is a **WIP** (work in progress, not safe for production), mention it. (Remember the time before Docker 1.0 ? ;-) )
+- Always put the link to the github project instead of the website!
 
 To be on the list, the project **must** have:
 
@@ -66,6 +67,17 @@ To be on the list, the project **must** have:
 - How to use the project (examples)
 
 
-If your PR is not merged, we will tell you why so that you may be able to improve it. 
+If your PR is not merged, we will tell you why so that you may be able to improve it.
 But usually, we are pretty relaxed people, so just come and say hi, we'll figure something out together.
 
+# New Collaborators
+
+If you just joined the team of maintainers for this repo, first of all: WELCOME!
+
+If it is your first time maintaining an open source project, read the [best practice guides for maintainers](https://opensource.guide/best-practices/).
+
+Here are the few things you need to know:
+* we don't push directly to master, we create a pull request. Every entry has to be reviewed.
+* how to tell if a project should be on the list, read this file `CONTRIBUTING.md`
+* to ask a contributor to make a change, just copy paste this message [here](https://github.com/veggiemonk/awesome-docker/pull/289#issuecomment-285608004) and changes a few things like names and stuff. The main idea is to help people get to quality.
+* If something seems weird, if you don't understand what a project does or the documentation is poor, don't hesitate to ask for more (see previous point).
